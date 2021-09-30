@@ -7,3 +7,4 @@
 ## 1주차
 * [화요일(0928)](https://github.com/Woozzang/ssac-bless-me/blob/master/1주차/화요일_(0928).md)
 * [수요일(0929)](https://github.com/Woozzang/ssac-bless-me/blob/master/1주차/수요일_(0929).md)
+* [목요일(0930)](https://github.com/Woozzang/ssac-bless-me/blob/master/1주차/목요일_(0930).md)
