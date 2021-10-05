@@ -12,3 +12,8 @@
 ###
 * [과제 1 - LED 전광판 앱](https://github.com/Woozzang/ios-project-ledboard)
 * [과제 2 - 신조어 검색 앱]()
+
+<br /><br />
+
+# 2주차
+* [화요일(0928)](https://github.com/Woozzang/ssac-bless-me/blob/master/2주차/화요일_(1005).md)
