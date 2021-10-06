@@ -10,6 +10,7 @@
 * [목요일(0930)](https://github.com/Woozzang/ssac-bless-me/blob/master/1주차/목요일_(0930).md)
 * [금요일(1001)](https://github.com/Woozzang/ssac-bless-me/blob/master/1주차/금요일_(1001).md)
 <br />
+
 * [과제 - LED 전광판 앱](https://github.com/Woozzang/ios-project-ledboard)
 * [과제 - 신조어 검색 앱](https://github.com/Woozzang/ios-project-newly_coined_word)
 
@@ -19,4 +20,5 @@
 * [화요일(1005)](https://github.com/Woozzang/ssac-bless-me/blob/master/2주차/화요일_(1005).md)
 * [수요일(1006)](https://github.com/Woozzang/ssac-bless-me/blob/master/2주차/수요일_(1006).md)
 <br />
+
 * [과제 - LED 전광판 앱](https://github.com/Woozzang/ios-project-ledboard)
