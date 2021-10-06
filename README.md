@@ -21,4 +21,4 @@
 * [수요일(1006)](https://github.com/Woozzang/ssac-bless-me/blob/master/2주차/수요일_(1006).md)
 <br />
 
-* [과제 - LED 전광판 앱](https://github.com/Woozzang/ios-project-ledboard)
+* [과제 - 감정 일기 앱](https://github.com/Woozzang/ios-project-ledboard)
