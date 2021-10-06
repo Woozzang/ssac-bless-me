@@ -16,4 +16,5 @@
 <br />
 
 # 2주차
-* [화요일(0928)](https://github.com/Woozzang/ssac-bless-me/blob/master/2주차/화요일_(1005).md)
+* [화요일(1005)](https://github.com/Woozzang/ssac-bless-me/blob/master/2주차/화요일_(1005).md)
+* [수요일(1006)](https://github.com/Woozzang/ssac-bless-me/blob/master/2주차/수요일_(1006).md)
