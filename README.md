@@ -25,6 +25,7 @@
 
 * [과제 - 감정 일기 앱](https://github.com/Woozzang/ios-project-emotional_diary)
 * [과제 - 기념일 계산기](https://github.com/Woozzang/ios-project-dday_counter)
+* [제출 - 물 마시기 앱](https://github.com/Woozzang/ios-project-hydrate_me)
 <br />
 
 # 3주차
