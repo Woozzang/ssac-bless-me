@@ -19,8 +19,8 @@
 # 2주차
 * [화요일(1005)](https://github.com/Woozzang/ssac-bless-me/blob/master/2주차/화요일_(1005).md)
 * [수요일(1006)](https://github.com/Woozzang/ssac-bless-me/blob/master/2주차/수요일_(1006).md)
-* [목요일(1007]
-* [금요일(1008]
+* 목요일(1007) - Swift 문법 강의 ( Enum ) , Storyboard Reference 사용하기, Dependency Rule
+* 금요일(1008) - Swift 문법 강의 ( Class, Inheritance, Override, Structure )
 <br />
 
 * [과제 - 감정 일기 앱](https://github.com/Woozzang/ios-project-emotional_diary)
@@ -28,3 +28,4 @@
 <br />
 
 # 3주차
+* [화요일(1012)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/화요일_(1012).md)
