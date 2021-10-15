@@ -31,4 +31,5 @@
 # 3주차
 * [화요일(1012)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/화요일_(1012).md) - UITableView
 * [수요일(1013)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/수요일_(1013).md)
-* [목요일(1014)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/목요일_(1014).md)
+* [목요일(1014)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/목요일_(1014).md) - Extensions, Instance & Type Members, Singletone, 
+* [금요일(1015)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/금요일_(1015).md) 
