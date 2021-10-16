@@ -30,5 +30,7 @@
 
 # 3주차
 * [화요일(1012)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/화요일_(1012).md) - UITableView
-* [수요일(1013)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/수요일_(1013).md)
-* [목요일(1014)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/목요일_(1014).md)
+* [수요일(1013)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/수요일_(1013).md) - Custom Cell, 저장 속성, 계산 속성, Type Casting
+* [목요일(1014)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/목요일_(1014).md) - Extension, 인스턴스/ 타입 속성, 싱글톤
+* [금요일(1015)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/금요일_(1015).md) - 화면 전환
+<br />
