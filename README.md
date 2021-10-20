@@ -20,7 +20,8 @@ _시작일 : 2021.09.27 🌱_
 * [화요일(1019)](https://marsh-flavor-e1c.notion.site/0aa7b8bca52e4ee695394433630afe65)
 * [수요일(1020)](https://marsh-flavor-e1c.notion.site/1020-0d7f1796ed3f4d298125a45457b70627) ~ `Q&A 리뷰` `개인 정보 보호` `CLLocation` `MapView`
 <br />
-* [프로젝트📍 - 미디어 트렌드 앱 ( 이어서 )](https://github.com/Woozzang/ios-project-media_trend)
+
+* [프로젝트📍 - 미디어 트렌드 앱 ( 이어서 ) ](https://github.com/Woozzang/ios-project-media_trend)
 
 
 <br />
@@ -32,6 +33,7 @@ _시작일 : 2021.09.27 🌱_
 * [목요일(1014)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/목요일_(1014).md) ~ `Extension` `인스턴스/ 타입 속성` `싱글톤`
 * [금요일(1015)](https://github.com/Woozzang/ssac-bless-me/blob/master/3주차/금요일_(1015).md) ~ `화면 전환`
 <br />
+
 * [프로젝트📍 - 미디어 트렌드 앱](https://github.com/Woozzang/ios-project-media_trend)
 
 # 2주차
