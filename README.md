@@ -19,6 +19,7 @@ _시작일 : 2021.09.27 🌱_
 * [월요일(1018)](https://marsh-flavor-e1c.notion.site/1018-fbe8844763a6403681c9a200fb3e976f) 
 * [화요일(1019)](https://marsh-flavor-e1c.notion.site/0aa7b8bca52e4ee695394433630afe65)
 * [수요일(1020)](https://marsh-flavor-e1c.notion.site/1020-0d7f1796ed3f4d298125a45457b70627) ~ `Q&A 리뷰` `개인 정보 보호` `CLLocation` `MapView`
+* [목요일(2021](https://marsh-flavor-e1c.notion.site/1021-ba0651fa9dc9401ea275abbd9fab0f6a) ~ `Multiple Trailing Closure` ``
 <br />
 
 * [프로젝트📍 - 미디어 트렌드 앱 ( 이어서 ) ](https://github.com/Woozzang/ios-project-media_trend)
