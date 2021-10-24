@@ -26,7 +26,7 @@ _시작일 : 2021.09.27 🌱_
 * [금요일(1022)](https://marsh-flavor-e1c.notion.site/1022-2899fb6b0a4140e1ba957203e5c25a87) ~ `AuyoLayout 실습`
 <br />
 
-* [프로젝트📍 - AutoLayout 실습]()
+* [AutoLayout 실습 📐](https://marsh-flavor-e1c.notion.site/AutoLayout-9324260e96534682946fb69443d759d7)
 * [Core Location Property List Key 정리 🔑](https://marsh-flavor-e1c.notion.site/CoreLocation-435a5d71b5ef4af9a0dd76264626ee68)
 * [MapKit 간단 정리 🧭](https://marsh-flavor-e1c.notion.site/MapKit-93ad6e9a89b043eeb42d91e70812d10a)
 * [프로젝트📍 - 미디어 트렌드 앱 ( 이어서 ) ](https://github.com/Woozzang/ios-project-media_trend)
