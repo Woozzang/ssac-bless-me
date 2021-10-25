@@ -14,7 +14,11 @@ _시작일 : 2021.09.27 🌱_
 - [5주차](#5주차)
 
 # 5주차
+* [월요일(1026)](https://marsh-flavor-e1c.notion.site/1025-19-60f822431ca344ebb89d809c737a1da3)
 
+<br />
+
+* [프로젝트📍 - Lottery API 이용 앱](https://marsh-flavor-e1c.notion.site/Lottery-API-f34bf61e54ea4a5094477c43fbc11e59)
 
 # 4주차
 노션으로 작성하는 글을 <u>마크다운으로 변환하는 과정이 번거로워</u> 노션 링크로 대체해보기로 시도 🔍
