@@ -14,7 +14,8 @@ _시작일 : 2021.09.27 🌱_
 - [5주차](#5주차)
 
 # 5주차
-* [월요일(1026)](https://marsh-flavor-e1c.notion.site/1025-19-60f822431ca344ebb89d809c737a1da3)
+* [월요일(1025)](https://marsh-flavor-e1c.notion.site/1025-19-60f822431ca344ebb89d809c737a1da3) ~ `HTTP`
+* [화요일(1026)](https://marsh-flavor-e1c.notion.site/1026-20-fbdbd5ec82534fa4a7b3cc713b764b4b) ~ `HTTP vs Socket` `REST API` `URL` `Serialization` `API Key 관리`
 
 <br />
 
