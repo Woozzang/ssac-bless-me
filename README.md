@@ -13,11 +13,17 @@ _시작일 : 2021.09.27 🌱_
 - [4주차](#4주차)
 - [5주차](#5주차)
 
+# 6주차
+* [월요일(1101)](https://marsh-flavor-e1c.notion.site/1101-0a602972e5d14789a0b7ab453f1678d2) ~ `Fonts``Localization`
+* [화요일(1102)](https://marsh-flavor-e1c.notion.site/1102-67e79279661c4adc82afdb6226caad5f) ~ `Realm` `DB`
+
 # 5주차
 * [월요일(1025)](https://marsh-flavor-e1c.notion.site/1025-19-60f822431ca344ebb89d809c737a1da3) ~ `HTTP`
 * [화요일(1026)](https://marsh-flavor-e1c.notion.site/1026-20-fbdbd5ec82534fa4a7b3cc713b764b4b) ~ `HTTP vs Socket` `REST API` `URL` `Serialization` `API Key 관리`
-
 * [수요일(1027)](https://marsh-flavor-e1c.notion.site/1027-21-3e8973b421d041e5b0f639cc9de0c7ad) ~ `Pagination` `MIME` `multipart/form-data`
+* [목요일(1028)](https://marsh-flavor-e1c.notion.site/1028-22-8175884bb46148d38af06eb6e8f22c65)
+* [금요일(1029)](https://marsh-flavor-e1c.notion.site/1029-23-6ae3776ee4b64d229bc183c401257d1e)
+
 
 <br />
 
