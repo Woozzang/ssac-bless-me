@@ -12,10 +12,16 @@ _시작일 : 2021.09.27 🌱_
 - [3주차](#3주차)
 - [4주차](#4주차)
 - [5주차](#5주차)
+- [6주차](#6주차)
 
 # 6주차
-* [월요일(1101)](https://marsh-flavor-e1c.notion.site/1101-0a602972e5d14789a0b7ab453f1678d2) ~ `Fonts``Localization`
+* [월요일(1101)](https://marsh-flavor-e1c.notion.site/1101-0a602972e5d14789a0b7ab453f1678d2) ~ `Fonts` `Localization`
 * [화요일(1102)](https://marsh-flavor-e1c.notion.site/1102-67e79279661c4adc82afdb6226caad5f) ~ `Realm` `DB`
+
+* [수요일(1103) - 26회차](https://marsh-flavor-e1c.notion.site/1103-398adbe00f2a46cf96c27fbb2289cfbb)
+* [목요일(1104) - 27회차](https://marsh-flavor-e1c.notion.site/1104-27-92dcf92dfe774c3e8ad2e921d2f3761a) ~ `백업과 복구` `iOS Sandbox` `ShareActivity`
+
+<br />
 
 # 5주차
 * [월요일(1025)](https://marsh-flavor-e1c.notion.site/1025-19-60f822431ca344ebb89d809c737a1da3) ~ `HTTP`
