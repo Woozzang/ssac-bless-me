@@ -13,6 +13,10 @@ _시작일 : 2021.09.27 🌱_
 - [4주차](#4주차)
 - [5주차](#5주차)
 - [6주차](#6주차)
+- [7주차](#7주차)
+
+# 7주차
+* [월요일(1108)](https://marsh-flavor-e1c.notion.site/1108-6d52f815a4f146679918c22ad883bb8e) ~ `UIBlurEffect` `UICollectionView concerned` `AwakeFromNib vs viewDidLoad` `Appearence` `Initializer`
 
 
 # 6주차
