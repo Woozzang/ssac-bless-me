@@ -20,6 +20,7 @@ _시작일 : 2021.09.27 🌱_
 * [화요일(1102)](https://marsh-flavor-e1c.notion.site/1102-67e79279661c4adc82afdb6226caad5f) ~ `Realm` `DB`
 * [수요일(1103) - 26회차](https://marsh-flavor-e1c.notion.site/1103-398adbe00f2a46cf96c27fbb2289cfbb)
 * [목요일(1104) - 27회차](https://marsh-flavor-e1c.notion.site/1104-27-92dcf92dfe774c3e8ad2e921d2f3761a) ~ `백업과 복구` `iOS Sandbox` `ShareActivity`
+* [금요일(1108) - 28회](https://marsh-flavor-e1c.notion.site/1105-28-152b8e649af64eb0bb22d1497d4d6741) ~ `복습`
 
 * [프로젝트📍 - 쇼핑리스트 앱](https://marsh-flavor-e1c.notion.site/7714945ae0af46dcabca310a431dd29c)
 
